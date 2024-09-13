@@ -61,4 +61,4 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
 {% include embed.html url="https://www.youtube.com/embed/S-M24Pzgk6o?si=4ZXzR8_ZFxpVGnT-" %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S-M24Pzgk6o?si=8G8Jemu2h8KNH_JZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
